@@ -1,3 +1,10 @@
+<?php
+echo "<h2>PHP is Fun!</h2>";
+echo "Hello world!<br>";
+echo "I'm about to learn PHP!<br>";
+echo "This ", "string ", "was ", "made ", "with multiple parameters","\n";
+?>
+
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script>
  $(document).ready(function(){
